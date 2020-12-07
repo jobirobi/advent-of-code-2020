@@ -85,3 +85,18 @@ sys   0m0.047s
 
 ---
 
+Day 6, Problem 1:
+```
+real  0m0.165s
+user  0m0.076s
+sys   0m0.049s
+```
+
+Day 6, Problem 2:
+```
+real  0m0.163s
+user  0m0.075s
+sys   0m0.048s
+```
+
+---
