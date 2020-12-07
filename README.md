@@ -9,15 +9,15 @@ I'll be uploading my scripts here and noting their runtimes.
 
 Day 1, Problem 1:
 ```
-real	0m0.119s
-user	0m0.066s
-sys 	0m0.046s
+real  0m0.119s
+user  0m0.066s
+sys   0m0.046s
 ```
 Day 1, Problem 2:
 ```
-real	0m0.119s
-user	0m0.069s
-sys	  0m0.046s
+real  0m0.119s
+user  0m0.069s
+sys   0m0.046s
 ```
 
 ---
@@ -68,3 +68,20 @@ sys   0m0.049s
 ```
 
 ---
+
+Day 5, Problem 1:
+```
+real  0m0.156s
+user  0m0.069s
+sys   0m0.048s
+```
+
+Day 5, Problem 2:
+```
+real  0m0.162s
+user  0m0.075s
+sys   0m0.047s
+```
+
+---
+
