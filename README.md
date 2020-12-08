@@ -116,3 +116,19 @@ sys   0m0.043s
 ```
 
 ---
+
+Day 8, Problem 1:
+```
+real  0m0.224s
+user  0m0.077s
+sys   0m0.053s
+```
+
+Day 8, Problem 2:
+```
+real  0m0.231s
+user  0m0.089s
+sys   0m0.051s
+```
+
+---
