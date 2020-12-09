@@ -132,3 +132,19 @@ sys   0m0.051s
 ```
 
 ---
+
+Day 9, Problem 1:
+```
+real  0m0.154s
+user  0m0.107s
+sys   0m0.043s
+```
+
+Day 9, Problem 2:
+```
+real  0m0.156s
+user  0m0.108s
+sys   0m0.044s
+```
+
+---
