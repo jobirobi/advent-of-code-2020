@@ -5,8 +5,6 @@ I'll be uploading my scripts here and noting their runtimes.
 
 ## Runtimes
 
----
-
 Day 1, Problem 1:
 ```
 real  0m0.119s
@@ -177,6 +175,22 @@ Day 11, Problem 2:
 real  0m3.879s
 user  0m3.798s
 sys   0m0.053s
+```
+
+---
+
+Day 12, Problem 1:
+```
+real  0m0.115s
+user  0m0.066s
+sys   0m0.045s
+```
+
+Day 12, Problem 2:
+```
+real  0m0.115s
+user  0m0.065s
+sys   0m0.044s
 ```
 
 ---
