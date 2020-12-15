@@ -210,3 +210,19 @@ sys   0m0.042s
 ```
 
 ---
+
+Day 14, Problem 1:
+```
+real  0m0.122s
+user  0m0.074s
+sys   0m0.044s
+```
+
+Day 14, Problem 2:
+```
+real  0m0.408s
+user  0m0.352s
+sys   0m0.050s
+```
+
+---
