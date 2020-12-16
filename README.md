@@ -226,3 +226,12 @@ sys   0m0.050s
 ```
 
 ---
+
+Day 15, **Both** Problems (same script):
+```
+real  0m5.726s
+user  0m5.571s
+sys   0m0.146s
+```
+
+---
