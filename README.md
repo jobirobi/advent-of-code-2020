@@ -283,3 +283,19 @@ sys   0m0.045s
 ```
 
 ---
+
+Day 19, Problem 1:
+```
+real  0m17.422s
+user  0m16.882s
+sys   0m0.347s
+```
+
+Day 19, Problem 2:
+```
+real  0m0.251s
+user  0m0.097s
+sys   0m0.054s
+```
+
+---
