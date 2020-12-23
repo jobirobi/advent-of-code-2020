@@ -299,3 +299,21 @@ sys   0m0.054s
 ```
 
 ---
+
+Day 20 UNFINISHED
+
+---
+
+Day 21, Problem 1:
+```
+real  0m0.222s
+user  0m0.074s
+sys   0m0.047s
+```
+
+Day 21, Problem 2:
+```
+real  0m0.225s
+user  0m0.077s
+sys   0m0.045s
+```
