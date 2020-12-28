@@ -370,4 +370,11 @@ sys   0m0.056s
 
 ---
 
-<!-- Day 25 -->
+Day 25, Problem 1:
+```
+real  0m0.544s
+user  0m0.493s
+sys   0m0.046s
+```
+
+Day 25, Problem 2: UNFINISHED
