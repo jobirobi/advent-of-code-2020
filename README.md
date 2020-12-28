@@ -300,7 +300,14 @@ sys   0m0.054s
 
 ---
 
-Day 20 UNFINISHED
+Day 20, Problem 1:
+```
+real  0m0.168s
+user  0m0.120s
+sys   0m0.042s
+```
+
+Day 20, Problem 2: UNFINISHED
 
 ---
 
@@ -335,3 +342,32 @@ sys   0m0.070s
 ```
 
 ---
+
+Day 23, Problem 1:
+```
+real  0m0.121s
+user  0m0.068s
+sys   0m0.046s
+```
+
+Day 23, Problem 2: UNFINISHED
+
+---
+
+Day 24, Problem 1:
+```
+real  0m0.125s
+user  0m0.073s
+sys   0m0.047s
+```
+
+Day 24, Problem 2:
+```
+real  0m8.500s
+user  0m8.414s
+sys   0m0.056s
+```
+
+---
+
+<!-- Day 25 -->
